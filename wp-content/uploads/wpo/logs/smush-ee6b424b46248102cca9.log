@@ -1,0 +1,15 @@
+[2024-09-23 10:46:35 : INFO] - Re_Smush_It_Task with attachment ID : 1821, autocreated on : September 23, 2024 10:46:35 
+[2024-09-23 10:53:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-09-23 10:53:02 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-09-23 10:53:02 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-09-23 10:53:02 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-09-23 10:53:02 : INFO] - Re_Smush_It_Task with attachment ID : 1821, autocreated on : September 23, 2024 10:46:35 
+[2024-09-23 10:53:02 : INFO] - File: cropped-india-emblem.png, Compression quality: 92 
+[2024-09-23 10:53:04 : INFO] - Backing up the original image - 2024/08/cropped-india-emblem-updraft-pre-smush-original.png 
+[2024-09-23 10:53:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-09-23 10:53:12 : INFO] - Successfully optimized the image - E:\XAMPP\htdocs\wordpress/wp-content/uploads/2024/08/cropped-india-emblem.png.The file was compressed from 337.24 KB to 105.33 KB, saving 68.77 percent, using WP-Optimize 
+[2024-09-23 10:53:12 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-09-23 10:53:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-09-23 10:53:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-09-23 10:53:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-09-23 10:53:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
